@@ -1,0 +1,36 @@
+/* Estilos comuns */
+
+.text-left   { text-align: left;    }
+.text-center { text-align: center;  }   
+.text-right  { text-align: right;   }   
+.negrito     { font-weight: bold    }
+.col-lg-3    { width: 25%; }
+.col-lg-9   { width: 75%; }
+
+table{ 
+    width: 100%;        
+    font-family: Arial;
+}
+
+/* Estilo do cabecalho do relatório */
+
+.cabecalho{    
+    vertical-align: bottom;  
+    font-family: Arial; 
+    font-size: 10px; 
+    color: #000;
+    margin-bottom: 3px;
+}
+
+.dados-lino       { width: 33%;      } 
+.dados-relatorio  { width: 80%;  vertical-align: text-top; } 
+.titulo-cabecalho { font-size: 12px; }    
+
+/* Estilo para o rodapé do relatório */
+
+.rodape td{ 
+    color: #999999;
+    font-size: 12px; 
+}
+
+ 

@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-size: 12px;
+    font-family: Times New Roma;
+    font-weight: normal;
+    background: #FFFFFF;
+}
+
+table{
+  border-spacing: 0;
+  border-collapse: collapse;
+  background: #FFFFFF;
+}
+
+td, th {
+  padding: 5px; 
+}
+
+.linha-cabecalho{
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.linha-inferior{
+    border-bottom: 1px solid #ccc;
+}
+
+.linha-superior{
+    border-top: 1px solid #ccc;
+}
+
+.linha-sup-inf{
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.rodape-tabela{
+    border-bottom: none;
+}
+
+.color-lista{
+    background: #eee;
+}
